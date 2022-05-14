@@ -57,10 +57,10 @@ body{
 .single-lang a{
     text-decoration: none;
     background-color: rgb(89, 143, 8);
-    border: 2px solid rgba(0, 0, 0, 0.164);
     border-radius: 5px;
     color: white;
     padding: 7px 14px;
+    font-weight: 500;
     
 }
 .lang-sec{
